@@ -1,9 +1,15 @@
+<!-- Linea de arcoiris -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- Header -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+soy+Sebastian+%F0%9F%91%8B;Estudiante+de+3D;Programación+y+Fotografía" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23ffffff&size=32&center=true&vCenter=true&width=600&height=50&lines=Bienvenido+soy+Sebastian+%F0%9F%91%8B;Estudiante+de+3D;Programación+y+Fotografía" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
