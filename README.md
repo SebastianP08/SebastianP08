@@ -18,7 +18,7 @@
     <div align=left>
         <br><br><br>
 
-<h2>Some things about me</h2>
+<h2>😄 Some things about me</h2>
 
 I'm someone who loves playing videogame and find all of the process for their creation so interesting and facinating, that's why I would love to create one of my own to inspire others or at least make someone's day with my creations.
 <br><br>
@@ -40,6 +40,12 @@ I'm someone who loves playing videogame and find all of the process for their cr
 <p><img align="left" height="230" src="https://i.postimg.cc/T1XVSj11/Most-used-languages.png" alt="Languages" /></p>
 <p><img align="right" height="230" src="https://i.postimg.cc/g2SkTYjZ/Main-Skills.png" alt="Skills" /></p>
 </hr>
+<br><br><br><br><br><br><br><br><br><br>
+
+<hr>
+<h3 align="center">Thank you for taking the time to review my readme. I am continuously learning and improving my skills in 3D development, digital creation and programming. I’m always open to feedback, collaboration, and new opportunities.</h3>
+</hr>
+<br>
 
 <!-- Footer -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
