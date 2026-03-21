@@ -40,3 +40,9 @@ I'm someone who loves playing videogame and find all of the process for their cr
 <p><img align="left" height="230" src="https://i.postimg.cc/T1XVSj11/Most-used-languages.png" alt="Languages" /></p>
 <p><img align="right" height="230" src="https://i.postimg.cc/g2SkTYjZ/Main-Skills.png" alt="Skills" /></p>
 </hr>
+
+<!-- Footer -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- Linea arcoiris -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
