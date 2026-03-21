@@ -16,4 +16,16 @@
         <a href="https://t.me/+573116300414"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
     </div>
     <div align=left>
-        <br>
+        <br><br><br>
+
+<h2>Some thing about me</h2>
+
+I'm someone who loves playing videogame and find all of the preocess for their creation so interesting and facinating, that's why I would love to create one of my own to inspire others or at least make someone's day with my creations.
+<br><br>
+
+<h2>💼 Things that I wish to improve:</h2> 
+* My 3D Modeling, sculping and shading <br>
+* My programming skills . <br>
+* My composition and photography skills.
+
+<h2>Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
