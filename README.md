@@ -18,9 +18,9 @@
     <div align=left>
         <br><br><br>
 
-<h2>Some thing about me</h2>
+<h2>Some things about me</h2>
 
-I'm someone who loves playing videogame and find all of the preocess for their creation so interesting and facinating, that's why I would love to create one of my own to inspire others or at least make someone's day with my creations.
+I'm someone who loves playing videogame and find all of the process for their creation so interesting and facinating, that's why I would love to create one of my own to inspire others or at least make someone's day with my creations.
 <br><br>
 
 <h2>💼 Things that I wish to improve:</h2> 
@@ -34,4 +34,9 @@ I'm someone who loves playing videogame and find all of the preocess for their c
 <code><a href = "https://www.autodesk.com/products/maya/free-trial?msockid=2c3ca39ca7916ebf1e98b618a61d6fb6"><img height="65" src="https://i.pinimg.com/originals/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.png" alt="Maya"></a></code>
 <code><a href = "https://www.affinity.studio/es_es"><img height="60" src="https://zdrojak.cz/wp-content/uploads/2025/11/affinity-logo-icon-hd.png" alt="Affinity"></a></code>
 <code><a href = "https://www.blackmagicdesign.com/products/davinciresolve"><img height="65" src="https://cdn.jim-nielsen.com/macos/1024/davinci-resolve-2023-11-02.png" alt="DaVinci"></a></code>
+<br><br><br>
 
+<hr>
+<p><img align="left" height="230" src="https://i.postimg.cc/T1XVSj11/Most-used-languages.png" alt="Languages" /></p>
+<p><img align="right" height="230" src="https://i.postimg.cc/g2SkTYjZ/Main-Skills.png" alt="Skills" /></p>
+</hr>
