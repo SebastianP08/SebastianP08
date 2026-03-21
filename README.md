@@ -28,4 +28,10 @@ I'm someone who loves playing videogame and find all of the preocess for their c
 * My programming skills . <br>
 * My composition and photography skills.
 
-<h2>Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2>Tools that I use: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<code><a href = "https://www.blender.org/features/"><img height="60" src="https://download.blender.org/branding/blender_logo_socket.png" alt="Blender"></a></code>
+<code><a href = "https://code.visualstudio.com/"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualCode"></a></code>
+<code><a href = "https://www.autodesk.com/products/maya/free-trial?msockid=2c3ca39ca7916ebf1e98b618a61d6fb6"><img height="65" src="https://i.pinimg.com/originals/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.png" alt="Maya"></a></code>
+<code><a href = "https://www.affinity.studio/es_es"><img height="60" src="https://zdrojak.cz/wp-content/uploads/2025/11/affinity-logo-icon-hd.png" alt="Affinity"></a></code>
+<code><a href = "https://www.blackmagicdesign.com/products/davinciresolve"><img height="65" src="https://cdn.jim-nielsen.com/macos/1024/davinci-resolve-2023-11-02.png" alt="DaVinci"></a></code>
+
